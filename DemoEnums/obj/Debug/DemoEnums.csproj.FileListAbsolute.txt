@@ -1,0 +1,7 @@
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoEnums\bin\Debug\DemoEnums.exe.config
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoEnums\bin\Debug\DemoEnums.exe
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoEnums\bin\Debug\DemoEnums.pdb
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoEnums\obj\Debug\DemoEnums.csprojAssemblyReference.cache
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoEnums\obj\Debug\DemoEnums.csproj.CoreCompileInputs.cache
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoEnums\obj\Debug\DemoEnums.exe
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoEnums\obj\Debug\DemoEnums.pdb

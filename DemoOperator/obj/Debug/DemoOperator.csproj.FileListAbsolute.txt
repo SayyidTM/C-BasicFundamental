@@ -1,0 +1,6 @@
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoOperator\bin\Debug\DemoOperator.exe.config
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoOperator\bin\Debug\DemoOperator.exe
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoOperator\bin\Debug\DemoOperator.pdb
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoOperator\obj\Debug\DemoOperator.csproj.CoreCompileInputs.cache
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoOperator\obj\Debug\DemoOperator.exe
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoOperator\obj\Debug\DemoOperator.pdb

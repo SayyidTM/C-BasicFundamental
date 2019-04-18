@@ -1,0 +1,7 @@
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoStrings\bin\Debug\DemoStrings.exe.config
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoStrings\bin\Debug\DemoStrings.exe
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoStrings\bin\Debug\DemoStrings.pdb
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoStrings\obj\Debug\DemoStrings.csprojAssemblyReference.cache
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoStrings\obj\Debug\DemoStrings.csproj.CoreCompileInputs.cache
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoStrings\obj\Debug\DemoStrings.exe
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoStrings\obj\Debug\DemoStrings.pdb

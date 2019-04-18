@@ -1,0 +1,7 @@
+c:\users\sayyid m alkhindi\source\repos\CBasicFundamental\CBasicFundamental\bin\Debug\CBasicFundamental.exe.config
+c:\users\sayyid m alkhindi\source\repos\CBasicFundamental\CBasicFundamental\bin\Debug\CBasicFundamental.exe
+c:\users\sayyid m alkhindi\source\repos\CBasicFundamental\CBasicFundamental\bin\Debug\CBasicFundamental.pdb
+c:\users\sayyid m alkhindi\source\repos\CBasicFundamental\CBasicFundamental\obj\Debug\CBasicFundamental.csprojAssemblyReference.cache
+c:\users\sayyid m alkhindi\source\repos\CBasicFundamental\CBasicFundamental\obj\Debug\CBasicFundamental.csproj.CoreCompileInputs.cache
+c:\users\sayyid m alkhindi\source\repos\CBasicFundamental\CBasicFundamental\obj\Debug\CBasicFundamental.exe
+c:\users\sayyid m alkhindi\source\repos\CBasicFundamental\CBasicFundamental\obj\Debug\CBasicFundamental.pdb

@@ -1,0 +1,7 @@
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoClasses\bin\Debug\DemoClasses.exe.config
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoClasses\bin\Debug\DemoClasses.exe
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoClasses\bin\Debug\DemoClasses.pdb
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoClasses\obj\Debug\DemoClasses.csprojAssemblyReference.cache
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoClasses\obj\Debug\DemoClasses.csproj.CoreCompileInputs.cache
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoClasses\obj\Debug\DemoClasses.exe
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoClasses\obj\Debug\DemoClasses.pdb

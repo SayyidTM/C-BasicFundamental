@@ -1,0 +1,7 @@
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoIfAndSwitch\bin\Debug\DemoIfAndSwitch.exe.config
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoIfAndSwitch\bin\Debug\DemoIfAndSwitch.exe
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoIfAndSwitch\bin\Debug\DemoIfAndSwitch.pdb
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoIfAndSwitch\obj\Debug\DemoIf.csprojAssemblyReference.cache
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoIfAndSwitch\obj\Debug\DemoIf.csproj.CoreCompileInputs.cache
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoIfAndSwitch\obj\Debug\DemoIfAndSwitch.exe
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoIfAndSwitch\obj\Debug\DemoIfAndSwitch.pdb

@@ -1,0 +1,7 @@
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoRefrenceTypesAndValue\bin\Debug\DemoRefrenceTypesAndValue.exe.config
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoRefrenceTypesAndValue\bin\Debug\DemoRefrenceTypesAndValue.exe
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoRefrenceTypesAndValue\bin\Debug\DemoRefrenceTypesAndValue.pdb
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoRefrenceTypesAndValue\obj\Debug\DemoRefrenceTypesAndValue.csproj.CoreCompileInputs.cache
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoRefrenceTypesAndValue\obj\Debug\DemoRefrenceTypesAndValue.exe
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoRefrenceTypesAndValue\obj\Debug\DemoRefrenceTypesAndValue.pdb
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoRefrenceTypesAndValue\obj\Debug\DemoRefrenceTypesAndValue.csprojAssemblyReference.cache

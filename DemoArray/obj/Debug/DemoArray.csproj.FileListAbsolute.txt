@@ -1,0 +1,7 @@
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoArray\bin\Debug\DemoArray.exe.config
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoArray\bin\Debug\DemoArray.exe
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoArray\bin\Debug\DemoArray.pdb
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoArray\obj\Debug\DemoArray.csprojAssemblyReference.cache
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoArray\obj\Debug\DemoArray.csproj.CoreCompileInputs.cache
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoArray\obj\Debug\DemoArray.exe
+C:\Users\Sayyid M Alkhindi\source\repos\CBasicFundamental\DemoArray\obj\Debug\DemoArray.pdb
